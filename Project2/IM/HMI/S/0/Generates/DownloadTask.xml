@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2026-03-14 01:16:57 (UTC)"
+    Runtime="SMART"
+    RtProjectName="Project2.HMI_1[KTP700 Basic PN]"
+    RtProjectFolderName="Project2.HMI_1[KTP700 Basic PN]"
+    DeviceType="KTP700_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP700" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>
