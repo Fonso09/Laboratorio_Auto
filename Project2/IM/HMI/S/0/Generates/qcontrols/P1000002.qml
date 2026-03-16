@@ -29,7 +29,7 @@ IGuiPage
 		id: q268435480
 		objId: 268435480
 		x: 276
-		y: 75
+		y: 93
 		width: 230
 		height: 25
 		qm_Transparent : true 
@@ -51,12 +51,9 @@ IGuiPage
 		height: 52
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/35#2#4#128#0#0"
-		qm_Border.top: 15
-		qm_Border.bottom: 15
-		qm_Border.right: 5
-		qm_Border.left: 5
-		qm_FillColor: "#ff636573"
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -77,12 +74,9 @@ IGuiPage
 		height: 52
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/35#2#4#128#0#0"
-		qm_Border.top: 15
-		qm_Border.bottom: 15
-		qm_Border.right: 5
-		qm_Border.left: 5
-		qm_FillColor: "#ff636573"
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -98,7 +92,7 @@ IGuiPage
 		id: q369098752
 		objId: 369098752
 		x: 14
-		y: 115
+		y: 139
 		width: 41
 		height: 56
 		IGuiQmlCircle
@@ -138,7 +132,7 @@ IGuiPage
 		id: q369098753
 		objId: 369098753
 		x: 120
-		y: 115
+		y: 140
 		width: 36
 		height: 56
 		IGuiQmlCircle
@@ -178,7 +172,7 @@ IGuiPage
 		id: q369098754
 		objId: 369098754
 		x: 221
-		y: 115
+		y: 140
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -218,7 +212,7 @@ IGuiPage
 		id: q369098755
 		objId: 369098755
 		x: 326
-		y: 115
+		y: 140
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -258,7 +252,7 @@ IGuiPage
 		id: q369098756
 		objId: 369098756
 		x: 431
-		y: 115
+		y: 140
 		width: 52
 		height: 56
 		IGuiQmlCircle
@@ -298,7 +292,7 @@ IGuiPage
 		id: q369098757
 		objId: 369098757
 		x: 548
-		y: 115
+		y: 140
 		width: 53
 		height: 56
 		IGuiQmlCircle
@@ -338,7 +332,7 @@ IGuiPage
 		id: q369098758
 		objId: 369098758
 		x: 667
-		y: 115
+		y: 140
 		width: 41
 		height: 56
 		IGuiQmlCircle
@@ -378,7 +372,7 @@ IGuiPage
 		id: q369098759
 		objId: 369098759
 		x: 14
-		y: 188
+		y: 212
 		width: 41
 		height: 56
 		IGuiQmlCircle
@@ -418,7 +412,7 @@ IGuiPage
 		id: q369098760
 		objId: 369098760
 		x: 120
-		y: 188
+		y: 213
 		width: 36
 		height: 56
 		IGuiQmlCircle
@@ -458,7 +452,7 @@ IGuiPage
 		id: q369098761
 		objId: 369098761
 		x: 221
-		y: 188
+		y: 213
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -498,7 +492,7 @@ IGuiPage
 		id: q369098762
 		objId: 369098762
 		x: 326
-		y: 188
+		y: 213
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -538,7 +532,7 @@ IGuiPage
 		id: q369098763
 		objId: 369098763
 		x: 431
-		y: 188
+		y: 213
 		width: 52
 		height: 56
 		IGuiQmlCircle
@@ -578,7 +572,7 @@ IGuiPage
 		id: q369098764
 		objId: 369098764
 		x: 548
-		y: 188
+		y: 213
 		width: 53
 		height: 56
 		IGuiQmlCircle
@@ -618,7 +612,7 @@ IGuiPage
 		id: q369098765
 		objId: 369098765
 		x: 667
-		y: 188
+		y: 213
 		width: 41
 		height: 56
 		IGuiQmlCircle
@@ -658,7 +652,7 @@ IGuiPage
 		id: q369098766
 		objId: 369098766
 		x: 14
-		y: 260
+		y: 284
 		width: 41
 		height: 56
 		IGuiQmlCircle
@@ -698,7 +692,7 @@ IGuiPage
 		id: q369098767
 		objId: 369098767
 		x: 120
-		y: 259
+		y: 284
 		width: 36
 		height: 56
 		IGuiQmlCircle
@@ -738,7 +732,7 @@ IGuiPage
 		id: q369098768
 		objId: 369098768
 		x: 221
-		y: 258
+		y: 283
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -778,7 +772,7 @@ IGuiPage
 		id: q369098769
 		objId: 369098769
 		x: 326
-		y: 257
+		y: 282
 		width: 40
 		height: 56
 		IGuiQmlCircle
@@ -818,7 +812,7 @@ IGuiPage
 		id: q369098770
 		objId: 369098770
 		x: 431
-		y: 256
+		y: 281
 		width: 52
 		height: 56
 		IGuiQmlCircle
@@ -858,7 +852,7 @@ IGuiPage
 		id: q369098771
 		objId: 369098771
 		x: 548
-		y: 255
+		y: 280
 		width: 53
 		height: 56
 		IGuiQmlCircle
@@ -898,7 +892,7 @@ IGuiPage
 		id: q369098772
 		objId: 369098772
 		x: 667
-		y: 254
+		y: 279
 		width: 41
 		height: 56
 		IGuiQmlCircle

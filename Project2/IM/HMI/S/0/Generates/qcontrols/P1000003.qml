@@ -41,8 +41,8 @@ IGuiPage
 			width: 160
 			height: 247
 			qm_BorderWidth: 1
-			qm_TextColor: "#ff181c31"
-			qm_FillColor: "#ffdedbde"
+			qm_TextColor: "#ff42a6f7"
+			qm_FillColor: "#ff000821"
 			qm_RectangleWidth: 160
 			qm_RectangleHeight: 247
 		}
@@ -55,7 +55,7 @@ IGuiPage
 			width: 148
 			height: 37
 			qm_Transparent : true 
-			qm_TextColor: "#ff31344a"
+			qm_TextColor: "#ff42a6f7"
 			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 			qm_Anchors.bottomMargin: 2
 			qm_Anchors.leftMargin: 3
@@ -86,7 +86,7 @@ IGuiPage
 			width: 27
 			height: 23
 			qm_Transparent : true 
-			qm_TextColor: "#ff31344a"
+			qm_TextColor: "#ff42a6f7"
 			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 			qm_Anchors.bottomMargin: 2
 			qm_Anchors.leftMargin: 3
@@ -102,7 +102,7 @@ IGuiPage
 			width: 26
 			height: 23
 			qm_Transparent : true 
-			qm_TextColor: "#ff31344a"
+			qm_TextColor: "#ff42a6f7"
 			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 			qm_Anchors.bottomMargin: 2
 			qm_Anchors.leftMargin: 3
@@ -119,12 +119,9 @@ IGuiPage
 			height: 27
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/35#2#4#128#0#0"
-			qm_Border.top: 13
-			qm_Border.bottom: 14
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ff636573"
+			qm_RectangleBorder.width:2
+			qm_RectangleBorder.color:"#ff42a6f7"
+			qm_FillColor: "#ff000821"
 			qm_TextColor: "#ffffffff"
 			qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -195,8 +192,8 @@ IGuiPage
 		width: 160
 		height: 247
 		qm_BorderWidth: 1
-		qm_TextColor: "#ff181c31"
-		qm_FillColor: "#ffdedbde"
+		qm_TextColor: "#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_RectangleWidth: 160
 		qm_RectangleHeight: 247
 	}
@@ -209,7 +206,7 @@ IGuiPage
 		width: 124
 		height: 37
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -240,7 +237,7 @@ IGuiPage
 		width: 27
 		height: 23
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -256,7 +253,7 @@ IGuiPage
 		width: 26
 		height: 23
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -273,12 +270,9 @@ IGuiPage
 		height: 27
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/35#2#4#128#0#0"
-		qm_Border.top: 13
-		qm_Border.bottom: 14
-		qm_Border.right: 5
-		qm_Border.left: 5
-		qm_FillColor: "#ff636573"
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
@@ -298,8 +292,8 @@ IGuiPage
 		width: 160
 		height: 247
 		qm_BorderWidth: 1
-		qm_TextColor: "#ff181c31"
-		qm_FillColor: "#ffdedbde"
+		qm_TextColor: "#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_RectangleWidth: 160
 		qm_RectangleHeight: 247
 	}
@@ -312,7 +306,7 @@ IGuiPage
 		width: 143
 		height: 37
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -343,7 +337,7 @@ IGuiPage
 		width: 27
 		height: 23
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -359,7 +353,7 @@ IGuiPage
 		width: 26
 		height: 23
 		qm_Transparent : true 
-		qm_TextColor: "#ff31344a"
+		qm_TextColor: "#ff42a6f7"
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
 		qm_Anchors.leftMargin: 3
@@ -376,12 +370,9 @@ IGuiPage
 		height: 27
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/35#2#4#128#0#0"
-		qm_Border.top: 13
-		qm_Border.bottom: 14
-		qm_Border.right: 5
-		qm_Border.left: 5
-		qm_FillColor: "#ff636573"
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff42a6f7"
+		qm_FillColor: "#ff000821"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
