@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiTextField
 	{
-		id: q268435468
-		objId: 268435468
+		id: q268435474
+		objId: 268435474
 		x: 14
 		y: 48
 		width: 98
