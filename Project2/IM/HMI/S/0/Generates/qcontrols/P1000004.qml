@@ -62,7 +62,7 @@ IGuiPage
 		height: 35
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/27#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -86,7 +86,7 @@ IGuiPage
 		height: 35
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/29#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -112,7 +112,7 @@ IGuiPage
 		height: 35
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/29#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -138,7 +138,7 @@ IGuiPage
 		height: 35
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/28#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/27#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5

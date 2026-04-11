@@ -119,10 +119,10 @@ IGuiTemplate
 	{
 		id: q486539295
 		objId: 486539295
-		x: 729
-		y: 233
+		x: 726
+		y: 117
 		width: 68
-		height: 189
+		height: 74
 		qm_Transparent : true 
 		qm_TextColor: "#ff94cbff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
@@ -134,10 +134,10 @@ IGuiTemplate
 	{
 		id: q486539296
 		objId: 486539296
-		x: 728
-		y: 43
+		x: 727
+		y: 42
 		width: 68
-		height: 189
+		height: 69
 		qm_Transparent : true 
 		qm_TextColor: "#ff94cbff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
@@ -169,6 +169,51 @@ IGuiTemplate
 		y: 438
 		width: 128
 		height: 34
+		qm_Transparent : true 
+		qm_TextColor: "#ff94cbff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539329
+		objId: 486539329
+		x: 727
+		y: 193
+		width: 68
+		height: 74
+		qm_Transparent : true 
+		qm_TextColor: "#ff94cbff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539330
+		objId: 486539330
+		x: 726
+		y: 268
+		width: 68
+		height: 74
+		qm_Transparent : true 
+		qm_TextColor: "#ff94cbff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539331
+		objId: 486539331
+		x: 728
+		y: 344
+		width: 68
+		height: 74
 		qm_Transparent : true 
 		qm_TextColor: "#ff94cbff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
