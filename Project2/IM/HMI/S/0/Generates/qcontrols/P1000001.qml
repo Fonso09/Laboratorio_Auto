@@ -26,8 +26,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088658
-		objId: 671088658
+		id: q671088649
+		objId: 671088649
 		x: 393
 		y: 121
 		width: 246
@@ -41,8 +41,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539308
-		objId: 486539308
+		id: q486539301
+		objId: 486539301
 		x: 70
 		y: 297
 		width: 210
@@ -64,8 +64,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539309
-		objId: 486539309
+		id: q486539302
+		objId: 486539302
 		x: 70
 		y: 156
 		width: 210
